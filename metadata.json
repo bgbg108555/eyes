@@ -1,0 +1,5 @@
+{
+  "name": "Script to Flowchart AI",
+  "description": "An AI-powered application that analyzes natural language plot scripts, converts them into program flows, and visualizes them as beautiful, interactive flowcharts. It also suggests necessary functions based on the script's context.",
+  "requestFramePermissions": []
+}
